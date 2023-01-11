@@ -1,4 +1,4 @@
-# laravel-geoip-world-cities (Laravel 5)
+# laravel-geoip-world-cities (Laravel 5,6,7,8)
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Latest Unstable Version](https://poser.pugx.org/moharrum/laravel-geoip-world-cities/v/unstable)](https://packagist.org/packages/moharrum/laravel-geoip-world-cities)
